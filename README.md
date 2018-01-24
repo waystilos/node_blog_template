@@ -1,0 +1,1 @@
+# Blog Template for sites that need a blog
